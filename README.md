@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mishan92
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - 😄 Pronouns: He/Him
